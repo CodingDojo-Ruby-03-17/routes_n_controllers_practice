@@ -1,0 +1,2 @@
+module DisplayRenderTextsHelper
+end
